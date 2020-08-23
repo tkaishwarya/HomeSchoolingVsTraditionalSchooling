@@ -1,2 +1,4 @@
 # HomeSchoolingVsTraditionalSchooling
 A prediction model which recommends which schooling system is better for your kid based on your kid's traits.
+Regression models such as Logistic and SVM are used where they trained on a dataset containing details such as age,performace oustide home, performance at home, social activity and target.Since models understand bits like 1 or 0, I have trained the model to send the output as 1 if the kid would do better in a home schooling environment, and 0 if traditional schooling is a better option. As we are all living in a fast paced world, most of us are unaware of the fact that we might be dealing with anxiety/panic attacks too, and especially it's hard on kids, especially with factors like peer pressure etc.
+This model helps to make the decision easy for parents to make sure they can give a better future for their kids by knowing and understanding their kids better as well.
